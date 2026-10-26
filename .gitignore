@@ -1,0 +1,33 @@
+# Output
+output/
+test_output/
+Convertiti_MP4/
+Convertiti_H264/
+*.mp4
+*.mkv
+
+# Log
+*.log
+mkv_to_mp4_*.log
+mkv_h265_to_h264_*.log
+
+# FFmpeg (scaricato automaticamente)
+ffmpeg.exe
+ffprobe.exe
+ffplay.exe
+ffmpeg-*.zip
+tools/
+
+# File temporanei
+*.tmp
+*.zip
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
